@@ -60,6 +60,7 @@ int main () {
     imprimirResultados("La vuelta mas lenta fue la: ", vueltaMasLenta);
     imprimirResultados("El tiempo de duracion fue: ", tiempoMasLenta);
     cout << "El porcentaje de reduccion fue de: " << reduccion << "%" << endl;
+    // se puede mejorar y ver si se le cambia alguna funcionalidad
    
  system("pause");
  return 0;
